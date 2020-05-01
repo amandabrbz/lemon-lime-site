@@ -1,4 +1,4 @@
-# New Studie: Professional Site
+# New Study: Professional Site
 
 This is the final project from [Front End Design Essencial's](https://www.udemy.com/course/front-end-essencial/) course.
 
