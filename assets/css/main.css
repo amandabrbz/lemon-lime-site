@@ -1,3 +1,4 @@
+/* global */
 * {
   margin: 0;
   padding: 0;
@@ -16,6 +17,7 @@ p {
   }
 }
 
+/* dev mobile first*/
 @media screen and (max-width: 319px) {
   .jl-page-wrapper {
     width: 100%;
@@ -204,7 +206,7 @@ p {
 @media screen and (min-width: 1600px) {
 }
 
-/* utilitaria */
+/* utils */
 .jl-text-green {
   color: #2ccb69;
 }
@@ -242,7 +244,7 @@ p {
   margin: 20px 0 0 0;
 }
 
-/* comportamentais */
+/* comport */
 .jl-is-open {
   display: block;
 }
